@@ -1,7 +1,3 @@
-# project7: A Food Order App
+# Project 7: A Food Order App
 
-I created this app in order to practice working with key front-end technologies and principles, namely React, React Router, Firebase, Axios, etc. 
-During the process, I learned how to connect to a database, which I then proceeded to send and fetch data from. 
-I also became more comfortable working with more complex and app-wide state, as well as handling user input. 
-
-The application is a food ordering app where the user could add products to their order, alter their order, and finally checkout. 
+A food ordering application where users can browse items, add products to their cart, modify their order, and complete checkout. Built with React and React Router for the front-end interface and navigation, this project uses Firebase for database management and Axios for handling API requests. In building the app, I gained experience with full-stack practices, including state management, database connectivity, and user input handling. 
